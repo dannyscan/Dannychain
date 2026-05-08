@@ -13,12 +13,12 @@ Fully compatible with the Ethereum Virtual Machine (EVM), allowing developers to
 
 Supported tools include:
 
-🟩 MetaMask<br>
-🟩 Remix IDE<br>
-🟩 Hardhat<br>
-🟩 Truffle<br>
-🟩 Web3.js<br>
-🟩 Trust Wallet<br>
+🔒 MetaMask<br>
+🔒 Remix IDE<br>
+🔒 Hardhat<br>
+🔒 Truffle<br>
+🔒 Web3.js<br>
+🔒 Trust Wallet<br>
 
 ##🌐 Secure Proof-of-Authority Consensus
 Powered by an advanced Proof-of-Authority (PoA) consensus mechanism, DannyChain ensures:
