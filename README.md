@@ -1,4 +1,4 @@
-# USDDWIN - Fiat-Backed Digital Token on the Blockchain
+# Dannychain - A high-speed Proof of Authority (PoA) L2 blockchain
 
 USDDWIN is a secure, decentralized, and fiat-backed cryptocurrency designed to facilitate seamless financial transactions. It leverages the Binance blockchain to provide a stable, fast, and reliable alternative for exchanging value in a digitally transformative financial ecosystem.
 # 🔐 Company
