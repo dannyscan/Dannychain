@@ -38,7 +38,7 @@ Powered by an advanced Proof-of-Authority (PoA) consensus mechanism, DannyChain 
 🛡️ Web3 Applications.<br>
 
 ## Integrated Blockchain Explorer:
-## Monitor real-time blockchain activity through the integrated explorer system, including:<br>
+Monitor real-time blockchain activity through the integrated explorer system, including:<br>
 🟡 Transaction tracking.<br>
 🟡 Wallet analytics.<br>
 🟡 Smart contract verification.<br>
@@ -46,7 +46,7 @@ Powered by an advanced Proof-of-Authority (PoA) consensus mechanism, DannyChain 
 🟡 Block inspection.<br>
 
 ## Developer-Friendly Ecosystem:
-## Features include.<br>
+Features include.<br>
 📘 Public RPC Access.<br>
 📘 REST APIs.<br>
 📘 WebSocket Support.<br>
