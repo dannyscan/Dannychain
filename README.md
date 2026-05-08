@@ -74,11 +74,11 @@ Security-focused architecture with:
 💡 Cross-chain Services.<br>
 
 # 🌐 Blockchain Information
-🔗 Network name: Danny
-🔗 Default RPC URL: rpc.dannyscan.com
-🔗 Chain ID: 5069
-🔗 Currency symbol: DAN
-🔗 Block explorer URL: dannyscan.com
+📌 Network name: Danny<br>
+📌 Default RPC URL: rpc.dannyscan.com<br>
+📌 Chain ID: 5069<br>
+📌 Currency symbol: DAN<br>
+📌 Block explorer URL: dannyscan.com<br>
 
 # Contact USDWCoin
 
