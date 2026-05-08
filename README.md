@@ -66,15 +66,19 @@ Security-focused architecture with:
 
 # 📒 Scalable Ecosystem Expansion
 🔗 DannyChain is built to support a growing Web3 ecosystem including: <br>
-📗 Decentralized Exchanges (DEX).<br>
-📗 Wallet Integration.<br>
-📗 Payment Systems.<br>
-📗 GameFi Applications.<br>
-📗 AI Infrastructure.<br>
-📗 Cross-chain Services.<br>
+💡 Decentralized Exchanges (DEX).<br>
+💡 Wallet Integration.<br>
+💡 Payment Systems.<br>
+💡 GameFi Applications.<br>
+💡 AI Infrastructure.<br>
+💡 Cross-chain Services.<br>
 
-# 🌐 License
-🔗 This project is licensed under the Apache License Version 2.0.
+# 🌐 Blockchain Information
+🔗 Network name: Danny
+🔗 Default RPC URL: rpc.dannyscan.com
+🔗 Chain ID: 5069
+🔗 Currency symbol: DAN
+🔗 Block explorer URL: dannyscan.com
 
 # Contact USDWCoin
 
