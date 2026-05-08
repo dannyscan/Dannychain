@@ -75,28 +75,28 @@ Security-focused architecture with:
 
 # 🌐 Blockchain Information
 📌 Network name: Danny<br>
-📌 Default RPC URL: rpc.dannyscan.com<br>
+📌 RPC URL: rpc.dannyscan.com<br>
 📌 Chain ID: 5069<br>
 📌 Currency symbol: DAN<br>
 📌 Block explorer URL: dannyscan.com<br>
 
-# Contact USDWCoin
+# Contact Dannychain
 
-🌐 Website : https://www.usddwin.com
+🌐 Website: https://www.dannychain.com
 
-👥 Twitter : https://x.com/usddwin2024
+👥 Twitter: https://x.com/Dan74668
 
-🧑‍🤝‍🧑 Facebook : https://www.facebook.com/profile.php?id=61570948176375
+🧑‍🤝‍🧑 Facebook: https://www.facebook.com/danchain69/
 
-💡 Telegram Group : http://t.me/usdwstable
+💡 Telegram Group: https://t.me/dannycoin2024
 
-▶️ Youtube : https://www.youtube.com/@USDWStableCoin
+▶️ Youtube: https://youtube.com/@DannyCoin-t7b
 
-💰 Polygon Smart Contract : https://polygonscan.com/token/0x3dEb0c60F0Be9D9b99DA83A2b6B2eE790F5Af37A
+⚪ Block explorer: https://dannyscan.com
 
-💰 Binance Smart Contract : https://bscscan.com/token/0xEd75AD08f416D4e53e4D45dd5140A4C8b84F39Fb
+⚪ DEX Exchange: https://dandex.io
 
-💰 Arbitrum Smart Contract : https://arbiscan.io/token/0x08ebF126f903e76d22869b5CB8C54D1dB55e2e84
+⚪ Bridge: https://dannychain.online
 
-💰 Base Smart Contract : https://basescan.org/token/0x661461d7c1d4f7cb591016A958959bbCB36457f9
-# USDWCoin
+⚪ Dexchart: https://dannychart.com
+# Danny Chain
