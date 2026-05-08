@@ -13,20 +13,20 @@ Fully compatible with the Ethereum Virtual Machine (EVM), allowing developers to
 
 Supported tools include:
 
-🟩 MetaMask
-🟩 Remix IDE
-🟩 Hardhat
-🟩 Truffle
-🟩 Web3.js
-🟩 Trust Wallet
+🟩 MetaMask<br>
+🟩 Remix IDE<br>
+🟩 Hardhat<br>
+🟩 Truffle<br>
+🟩 Web3.js<br>
+🟩 Trust Wallet<br>
 
 ##🌐 Secure Proof-of-Authority Consensus
 Powered by an advanced Proof-of-Authority (PoA) consensus mechanism, DannyChain ensures:
 
-✅ Faster block confirmations
-✅ Stable network performance
-✅ Enterprise-grade security
-✅ High throughput scalability
+✅ Faster block confirmations<br>
+✅ Stable network performance<br>
+✅ Enterprise-grade security<br>
+✅ High throughput scalability<br>
 
 # 💎 Advanced Smart Contract Support
 ## DannyChain supports secure and efficient smart contract deployment for:<br>
