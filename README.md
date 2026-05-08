@@ -6,7 +6,7 @@ DannyChain, A truly decentralized layer 2 blockchain powered by smart technology
 Built with advanced Layer 2 blockchain architecture, DannyChain delivers ultra-fast transaction processing with low latency and optimized network performance for scalable Web3 applications. Blockchain infrastructure accelerating tecnology adoption. Utilizing OP Stack's Ethereum Layer 2 technology, it pioneers in merging Web3 with AI by providing comprehensive solutions across storage, computing, bandwidth, and payments.
 
 # 🚀 Ultra-Low Transaction Fees
-DannyChain provides cost-efficient blockchain operations with minimal gas fees, <br>making it ideal for DeFi, NFT marketplaces, gaming ecosystems, AI platforms, and high-volume transactions.
+DannyChain provides cost-efficient blockchain operations with minimal gas fees, making it ideal for DeFi, NFT marketplaces, <br>gaming ecosystems, AI platforms, and high-volume transactions.
 
 # 🔥 EVM Compatibility
 Fully compatible with the Ethereum Virtual Machine (EVM), allowing developers to <br>deploy Solidity smart contracts seamlessly using existing Ethereum tools and frameworks.
