@@ -29,7 +29,7 @@ Powered by an advanced Proof-of-Authority (PoA) consensus mechanism, DannyChain 
 ✅ High throughput scalability<br>
 
 # 💎 Advanced Smart Contract Support
-## DannyChain supports secure and efficient smart contract deployment for:<br>
+DannyChain supports secure and efficient smart contract deployment for:<br>
 🛡️ DeFi Platforms.<br>
 🛡️ NFT Ecosystems.<br>
 🛡️ Tokenized Assets.<br>
