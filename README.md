@@ -77,7 +77,7 @@ Security-focused architecture with:
 📌 Network name: Danny<br>
 📌 RPC URL: rpc.dannyscan.com<br>
 📌 Chain ID: 5069<br>
-📌 Currency symbol: DAN<br>
+📌 Currency Native symbol: DAN<br>
 📌 Block explorer URL: dannyscan.com<br>
 
 # Contact Dannychain
