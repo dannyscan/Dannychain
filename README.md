@@ -73,7 +73,7 @@ Security-focused architecture with:
 💡 AI Infrastructure.<br>
 💡 Cross-chain Services.<br>
 
-# 🌐 Blockchain Information
+# 🌐 Default RPC 
 📌 Network name: Danny<br>
 📌 RPC URL: rpc.dannyscan.com<br>
 📌 Chain ID: 5069<br>
